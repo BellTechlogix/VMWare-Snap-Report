@@ -1,5 +1,4 @@
-##Add Code Here##
-Get-Module –ListAvailable VM* | Import-Module
+﻿Get-Module –ListAvailable VM* | Import-Module
 
 Connect-VIServer -Server JAXVC01
 
